@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @URW-07
-- 👀 I’m interested in Web Dev and Machine Learning
-- 🌱 I’m currently learning Web Dev and Machine Learning
+- 👀 I’m interested in Web Development and Machine Learning
+- 🌱 I’m currently learning Web Development and Machine Learning
 - 💞️ I’m looking to collaborate on both
 - 📫 How to reach me LinkedIn
 
